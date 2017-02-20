@@ -1,6 +1,6 @@
 {
-  "name": "onesignalmadeeasy",
-  "version": "1.0.1",
+  "name": "onesignaleasypush",
+  "version": "1.0.0",
   "description": "test package to be used for onesignal pushMessage",
   "main": "index.js",
   "scripts": {
