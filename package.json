@@ -1,0 +1,25 @@
+{
+  "name": "onesignaleasypush",
+  "version": "0.0.1",
+  "description": "A push that uses the onesignalapi just to send push message of who sent it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilRumbaLama/OneSignalEasyPush.git"
+  },
+  "keywords": [
+    "onesignal",
+    "onesignaleasypush",
+    "onesignalapi",
+    "onesignalnodeapi"
+  ],
+  "author": "Sunil Lama <rumba.alex47@gmail.com> (https://twitter.com/rumba_alex)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunilRumbaLama/OneSignalEasyPush/issues"
+  },
+  "homepage": "https://github.com/SunilRumbaLama/OneSignalEasyPush#readme"
+}
