@@ -1,0 +1,25 @@
+{
+  "name": "onesignalmadeeasy",
+  "version": "1.0.1",
+  "description": "test package to be used for onesignal pushMessage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilRumbaLama/OneSignalMadeEasy.git"
+  },
+  "keywords": [
+    "onesignalmadeeasy"
+  ],
+  "author": "Sunil Lama <rumba.alex47@gmail.com> (https://twitter.com/rumba_alex)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunilRumbaLama/OneSignalMadeEasy/issues"
+  },
+  "homepage": "https://github.com/SunilRumbaLama/OneSignalMadeEasy#readme",
+  "dependencies": {
+    "onesingalmadeeasy": "^1.0.0"
+  }
+}
